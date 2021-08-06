@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">mykeyboardsamples</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_date_of_birth">Enter Date of Birth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string-array name="spinner_label">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 </resources>
